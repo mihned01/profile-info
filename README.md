@@ -6,6 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:100C14,50:171225,100:5FFFB7&height=200&section=header&text=Hi, I'm Mihaela &fontSize=40&fontColor=F5F3FF&fontAlignY=40&desc=Multimedia%20Designer%20%2F%20Web%20Development%20student&descAlignY=65&descSize=167descColor=C4B5FD" width="100%"/>
 
+
 ### Designing ideas. Building experiences. Learning along the way.
 
 <br>
@@ -327,7 +328,7 @@ I'm always interested in learning, experimenting and creating new things.
 
 <img src="https://komarev.com/ghpvc/?username=mihaela13&label=Profile%20Views&color=5FFFB7&style=flat-square" />
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5FFFB7,50:171225,100:100C14&height=100&section=footer" width="100%"/>
 
