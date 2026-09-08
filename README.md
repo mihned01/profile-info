@@ -140,31 +140,6 @@ Experiments
 
 ---
 
-<!-- CONNECT -->
-
-<div align="center">
-
-## ✦ Let's Connect
-
-<br>
-
-I'm always interested in learning, experimenting, and creating new things.
-
-<br>
-
-<img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Email-F5F3FF?style=for-the-badge" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mihaela13&label=Profile%20Views&color=5FFFB7&style=flat-square" />
-
-</div>
-
-<br><br>
-
----
-
 
 <!-- FEATURED PROJECTS -->
 
