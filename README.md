@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100C14,50:171225,100:5FFFB7&height=180&section=header&text=Mihaela&fontSize=58&fontColor=F5F3FF&fontAlignY=40&desc=Multimedia%20Designer%20%2F%20Web%20Development%20student&descAlignY=65&descSize=17&descColor=C4B5FD" width="100%"/>
-
-<br>
-
-# Hi, I'm Mihaela 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100C14,50:171225,100:5FFFB7&height=200&section=header&text=Hi, I'm Mihaela &fontSize=40&fontColor=F5F3FF&fontAlignY=40&desc=Multimedia%20Designer%20%2F%20Web%20Development%20student&descAlignY=65&descSize=167descColor=C4B5FD" width="100%"/>
 
 ### Designing ideas. Building experiences. Learning along the way.
 
@@ -128,13 +124,13 @@ Experiments
 
 <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,php" />
 
-<br><br>
+<br>
 
 ### Data, CMS & Workflow
 
 <img src="https://skillicons.dev/icons?i=firebase,mongodb,wordpress,git,github,vscode" />
 
-<br><br>
+<br>
 
 ### Design
 
@@ -274,101 +270,6 @@ My personal portfolio, designed and developed to showcase my work, skills and cr
 
 </div>
 
----
-
-
-<!--  DESIGN PROCESS  -->
-
-
-<div align="center">
-
-## ✦ How I Like to Work
-
-<br>
-
-</div>
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 01
-
-**Discover**
-
-Research  
-Ideas  
-Users
-
-</td>
-
-<td align="center" width="5%">
-
-→
-
-</td>
-
-<td align="center" width="20%">
-
-### 02
-
-**Design**
-
-Wireframes  
-UI  
-Prototypes
-
-</td>
-
-<td align="center" width="5%">
-
-→
-
-</td>
-
-<td align="center" width="20%">
-
-### 03
-
-**Build**
-
-Code  
-Test  
-Iterate
-
-</td>
-
-<td align="center" width="5%">
-
-→
-
-</td>
-
-<td align="center" width="20%">
-
-### 04
-
-**Refine**
-
-Feedback  
-Details  
-Experience
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<div align="center">
-
-*Good digital experiences are designed before they're coded.*
-
-</div>
-
-<br>
 
 ---
 
@@ -388,7 +289,6 @@ Experience
 <img src="https://img.shields.io/badge/Databases-C4B5FD?style=flat-square" />
 <img src="https://img.shields.io/badge/APIs-F5F3FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Full--Stack-5FFFB7?style=flat-square" />
-
 <br>
 
 I'm currently expanding my web development skills, diving deeper into
