@@ -128,7 +128,7 @@ Experiments
 
 ### Data, CMS & Workflow
 
-<img src="https://skillicons.dev/icons?i=firebase,mongodb,wordpress,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=firebase,wordpress,git,github,vscode" />
 
 <br>
 
