@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Hi, I'm Michaela 👋
+# Hi, I'm Mihaela 👋
 
 ### Designing ideas. Building experiences. Learning along the way.
 
