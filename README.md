@@ -138,6 +138,29 @@ Experiments
 
 </div>
 
+---
+
+<!-- CONNECT -->
+
+<div align="center">
+
+## ✦ Let's Connect
+
+<br>
+
+I'm always interested in learning, experimenting, and creating new things.
+
+<br>
+
+<img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Email-F5F3FF?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mihaela13&label=Profile%20Views&color=5FFFB7&style=flat-square" />
+
+</div>
+
 <br><br>
 
 ---
@@ -283,13 +306,11 @@ My personal portfolio, designed and developed to showcase my work, skills and cr
 
 <br>
 
-
 <img src="https://img.shields.io/badge/PHP-C4B5FD?style=flat-square&logo=php&logoColor=100C14" />
 <img src="https://img.shields.io/badge/Backend-5FFFB7?style=flat-square" />
 <img src="https://img.shields.io/badge/Databases-C4B5FD?style=flat-square" />
 <img src="https://img.shields.io/badge/APIs-F5F3FF?style=flat-square" />
 <img src="https://img.shields.io/badge/Full--Stack-5FFFB7?style=flat-square" />
-<br>
 
 I'm currently expanding my web development skills, diving deeper into
 **backend development, databases, APIs, and full-stack application development.**
