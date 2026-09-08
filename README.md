@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100C14,50:171225,100:5FFFB7&height=200&section=header&text=Hi, I'm Mihaela &fontSize=40&fontColor=F5F3FF&fontAlignY=40&desc=Multimedia%20Designer%20%2F%20Web%20Development%20student&descAlignY=65&descSize=167descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100C14,50:171225,100:5FFFB7&height=200&section=header&text=Hi, I'm Mihaela&fontSize=40&fontColor=F5F3FF&fontAlignY=40&desc=Multimedia%20Designer%20%2F%20Web%20Development%20student&descAlignY=65&descSize=167descColor=C4B5FD" width="100%"/>
 
 
 ### Designing ideas. Building experiences. Learning along the way.
